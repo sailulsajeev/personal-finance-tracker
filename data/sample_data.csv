@@ -1,0 +1,16 @@
+date,amount,currency,category,kind,description
+2025-09-01,12.50,EUR,Food,expense,Cafe latte
+2025-09-02,2000,USD,Salary,income,September salary
+2025-09-03,45.00,USD,Transport,expense,Uber to office
+2025-09-04,60.00,USD,Groceries,expense,Weekly supermarket shopping
+2025-09-05,150.00,EUR,Entertainment,expense,Concert tickets
+2025-09-06,500.00,USD,Freelance,income,Client project payment
+2025-09-07,35.00,INR,Food,expense,Dinner at restaurant
+2025-09-08,120.00,USD,Utilities,expense,Electricity bill
+2025-09-09,85.00,USD,Shopping,expense,New shoes
+2025-09-10,250.00,USD,Gift,income,Birthday gift from family
+2025-09-11,15.00,EUR,Transport,expense,Bus pass
+2025-09-12,300.00,USD,Investments,income,Stock dividends
+2025-09-13,90.00,USD,Healthcare,expense,Doctor appointment
+2025-09-14,40.00,USD,Entertainment,expense,Cinema movie night
+2025-09-15,700.00,USD,Bonus,income,Quarterly performance bonus

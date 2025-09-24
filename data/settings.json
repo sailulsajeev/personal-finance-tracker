@@ -1,0 +1,4 @@
+{
+  "default_currency": "EUR",
+  "exchange_api_url": "https://api.exchangerate.host/latest"
+}
